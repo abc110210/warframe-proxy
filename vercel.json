@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/warframe/pc/zh",
+      "destination": "/api/warframe"
+    }
+  ]
+}
